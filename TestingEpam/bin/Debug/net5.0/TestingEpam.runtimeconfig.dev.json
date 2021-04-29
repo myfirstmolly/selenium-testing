@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rita/.dotnet/store/|arch|/|tfm|",
+      "/Users/rita/.nuget/packages"
+    ]
+  }
+}
